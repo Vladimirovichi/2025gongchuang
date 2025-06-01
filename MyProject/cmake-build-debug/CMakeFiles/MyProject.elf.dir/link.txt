@@ -1,0 +1,1 @@
+D:\STM32CubeMX\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe -g -Wl,-gc-sections,--print-memory-usage,-Map=E:/gongchuang/MyProject/cmake-build-debug/MyProject.map -mcpu=cortex-m4 -mthumb -mthumb-interwork -T E:/gongchuang/MyProject/STM32F407VETX_FLASH.ld @CMakeFiles\MyProject.elf.dir\objects1.rsp -o MyProject.elf 
